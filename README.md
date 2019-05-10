@@ -8,4 +8,4 @@ The intended use case for this project is in the Banking Sector.
 
 You can read my paper here: 
 <a href="https://www.academia.edu/39081963/Machine_Learning_and_Blockchain_for_Fraud_Detection_Employing_Artificial_Intelligence_in_the_Banking_Sector_Machine_Learning_and_Blockchain_for_Fraud_Detection_Employing_Artificial_Intelligence_in_the_Banking_Sector
-">Machine Learning and Blockchain for Fraud Detection: Employing Artificial Intelligence in the Banking Sector Machine Learning and Blockchain for Fraud Detection: Employing Artificial Intelligence in the Banking Sector on Academia.edu</a>
+">Machine Learning and Blockchain for Fraud Detection: Employing Artificial Intelligence in the Banking Sector on Academia.edu</a>
