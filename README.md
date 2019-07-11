@@ -1,4 +1,4 @@
-# Blockchain-ml
+# Blockchain and Machine Learning
 Combining Blockchain and Machine Learning for Fraud Detection.
 
 Note: The project is a work in progress.
