@@ -5,9 +5,11 @@
   
   <img alt="GitHub" src="https://img.shields.io/github/license/VinitaSilaparasetty/Blockchain-ml">
 
-# Blockchain and Machine Learning
+# Blockchain and Machine Learning for Fraud Detection: Employing Artificial Intelligence in the Banking Sector
 
-Combining Blockchain and Machine Learning for Fraud Detection.
+Combining Blockchain and Machine Learning for fraud detection.
+
+### Published in Conference Proceedings: GCU INTERNATIONAL KNOWLEDGE TRANSFER CONCLAVE - 2018 (ISBN 978-93-86516-46-6)
 
 ## Best Paper Award Winner
 
