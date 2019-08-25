@@ -11,7 +11,7 @@ Combining Blockchain and Machine Learning for Fraud Detection.
 
 ## Best Paper Award Winner
 
-![Alt text](https://raw.githubusercontent.com/VinitaSilaparasetty/Python-vs-R-for-Machine-Learning/master/pythonvsr.JPG)
+![Alt text](https://raw.githubusercontent.com/VinitaSilaparasetty/Blockchain-ml/master/fraudml.JPG)
 
 ## Abstract
 
