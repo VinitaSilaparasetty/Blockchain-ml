@@ -11,7 +11,7 @@ Combining Blockchain and Machine Learning for fraud detection.
 
 ### Published in Conference Proceedings: GCU INTERNATIONAL KNOWLEDGE TRANSFER CONCLAVE - 2018 (ISBN 978-93-86516-46-6)
 
-## Best Paper Award Winner
+# Best Paper Award Winner
 
 ![Alt text](https://raw.githubusercontent.com/VinitaSilaparasetty/Blockchain-ml/master/fraudml.JPG)
 
