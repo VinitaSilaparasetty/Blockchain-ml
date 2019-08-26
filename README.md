@@ -5,7 +5,7 @@
   
   <img alt="GitHub" src="https://img.shields.io/badge/Reviewed_by-Elsevier-blue.svg">
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/VinitaSilaparasetty/Blockchain-ml">
+  <img alt="GitHub" src="https://img.shields.io/badge/License-LGPL_3.0-blue.svg">
 
 # Blockchain and Machine Learning for Fraud Detection: Employing Artificial Intelligence in the Banking Sector
 
