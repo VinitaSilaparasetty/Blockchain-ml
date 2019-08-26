@@ -1,7 +1,9 @@
 <div class="column">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VinitaSilaparasetty/Blockchain-ml?style=plastic">
+    <img alt="GitHub language" src="https://img.shields.io/badge/Coded_with-Python-blue.svg">
   
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/VinitaSilaparasetty/Blockchain-ml">
+  <img alt="GitHub" src="https://img.shields.io/badge/Reviewed_by-Wiley-blue.svg">
+  
+  <img alt="GitHub" src="https://img.shields.io/badge/Reviewed_by-Elsevier-blue.svg">
   
   <img alt="GitHub" src="https://img.shields.io/github/license/VinitaSilaparasetty/Blockchain-ml">
 
