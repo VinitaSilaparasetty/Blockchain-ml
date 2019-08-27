@@ -26,6 +26,6 @@ The intended use case for this project is in the Banking Sector.
 
 #### Dataset source: https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions
 
-<center> ![Alt text](https://github.com/VinitaSilaparasetty/Blockchain-ml/blob/master/lpetrocelli-czech-financial-dataset-real-anonymized-transactions/Datamap.png?raw=true)
+![Alt text](https://github.com/VinitaSilaparasetty/Blockchain-ml/blob/master/lpetrocelli-czech-financial-dataset-real-anonymized-transactions/Datamap.png?raw=true)
   
-  ### Data Map
+
