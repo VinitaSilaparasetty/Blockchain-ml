@@ -28,4 +28,4 @@ The intended use case for this project is in the Banking Sector.
 
 ![Alt text](https://github.com/VinitaSilaparasetty/Blockchain-ml/blob/master/lpetrocelli-czech-financial-dataset-real-anonymized-transactions/Datamap.png?raw=true)
   
-
+##### Data Map
