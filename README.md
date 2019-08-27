@@ -25,7 +25,9 @@ Using Python demonstrate how an XGBoosted K-means algorithm can be combined with
 The intended use case for this project is in the Banking Sector.
 
 #### Dataset source: https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions
+
+Here's the data map for the data, to give you an understanding of their correlation.
+
 <p align="center">
   <img width="560" height="315" src="https://github.com/VinitaSilaparasetty/Blockchain-ml/blob/master/lpetrocelli-czech-financial-dataset-real-anonymized-transactions/Datamap.png?raw=true">
-</p>
-<p align="center">Data Map</p>  
+</p> 
