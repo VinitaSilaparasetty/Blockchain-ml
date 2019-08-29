@@ -39,4 +39,4 @@ Here's a data map describing each file's correlation.
   <img width="560" height="315" src="https://github.com/VinitaSilaparasetty/Blockchain-ml/blob/master/lpetrocelli-czech-financial-dataset-real-anonymized-transactions/Datamap.png?raw=true">
 </p> 
 
-<button type="round button" src="https://independent.academia.edu/VinitaSilaparasetty/Conference-Presentations">View Paper</button>
+<button type="button" src="https://independent.academia.edu/VinitaSilaparasetty/Conference-Presentations">View Paper</button>
