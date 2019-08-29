@@ -31,7 +31,7 @@ In this paper, a system is created which consists of a the following components:
 
 ### Dataset 
 
-###### source: http://lisp.vse.cz/pkdd99/berka.htm
+###### source: http://lisp.vse.cz/pkdd99/berka.html
 
 Here's a data map describing each file's correlation.
 
