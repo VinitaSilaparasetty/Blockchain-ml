@@ -31,7 +31,7 @@ In this paper, a system is created which consists of a the following components:
 
 ### Dataset 
 
-###### source: https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions
+###### source: http://lisp.vse.cz/pkdd99/berka.htm
 
 Here's a data map describing each file's correlation.
 
