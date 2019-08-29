@@ -19,10 +19,13 @@ Combining Blockchain and Machine Learning for fraud detection.
 
 ### Abstract
 
-This project is based on my conference presentation "Machine Learning and Blockchain for Fraud Detection: Employing Artificial Intelligence in the Banking Sector Machine Learning and Blockchain for Fraud Detection: Employing Artificial Intelligence in the Banking Sector".
+ Fraudulent banking operations can cause huge losses to the bank and further affect the economy negatively. What if Blockchain Technology and Machine Learning could be combined to detect suspicious banking activity and stop transactions at the source? That is what this paper aims to do.
 
-Using Python demonstrate how an XGBoosted K-means algorithm can be combined with a simple blockchain in order to detect and prevent fraudulent transactions. 
-The intended use case for this project is in the Banking Sector.
+In this paper, a system is created which consists of a the following components:
+
+*Blockchain: To securely store transaction history. 
+*XGBoosted KMenas algorithm: For quick and efficient detection of outliers, which indicate suspicious activity.
+*Apache Ignite: This is an open source platform that provides powerful computing for real-time Machine Learning.
 
 ##### Keywords: Machine Learning, Data Science, Artificial Intelligence, Kmeans Clustering
 
