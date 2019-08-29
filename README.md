@@ -23,9 +23,9 @@ Combining Blockchain and Machine Learning for fraud detection.
 
 In this paper, a system is created which consists of a the following components:
 
-*Blockchain: To securely store transaction history. 
-*XGBoosted KMenas algorithm: For quick and efficient detection of outliers, which indicate suspicious activity.
-*Apache Ignite: This is an open source platform that provides powerful computing for real-time Machine Learning.
+* Blockchain: To securely store transaction history. 
+* XGBoosted KMenas algorithm: For quick and efficient detection of outliers, which indicate suspicious activity.
+* Apache Ignite: This is an open source platform that provides powerful computing for real-time Machine Learning.
 
 ##### Keywords: Machine Learning, Data Science, Artificial Intelligence, Kmeans Clustering
 
