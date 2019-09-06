@@ -43,4 +43,4 @@ Here's a data map describing each file's correlation.
 
 <img src="https://github.com/VinitaSilaparasetty/Blockchain-ml/blob/master/V.S.png?raw=true" alt="Paris" class="center">
 
-Author Comments: This paper was merely a surface study on Machine Learning and Blockchains as the time alloted to prepare and submit the paper was just one week.
+#### Author Comments: This paper was merely a surface study on Machine Learning and Blockchains as the time alloted to prepare and submit the paper was just one week.
