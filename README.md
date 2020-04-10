@@ -22,7 +22,7 @@ Combining Blockchain and Machine Learning for fraud detection.
  Fraudulent banking operations can cause huge losses to the bank and further affect the economy negatively. What if Blockchain Technology and Machine Learning could be combined to detect suspicious banking activity and stop transactions at the source? That is what this paper aims to do.
 In this paper, a system is created which consists of the following components:
 1) Blockchain: To securely store transaction history.
-2) XGBoosted KMenas algorithm: For quick and efficient detection of outliers, which indicate suspicious
+2) XGBoosted KMeans algorithm: For quick and efficient detection of outliers, which indicate suspicious
 activity.
 3) Apache Ignite: This is an open source platform that provides powerful computing for real-time Machine
 Learning.
