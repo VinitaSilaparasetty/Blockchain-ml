@@ -7,7 +7,7 @@
 
 # Blockchain and Machine Learning for Fraud Detection: Employing Artificial Intelligence in the Banking Sector
 
-Combining Blockchain and Machine Learning for fraud detection.
+Harnessing Blockchain and Machine Learning for fraud detection.
 
 ### Published in Conference Proceedings: 
 
