@@ -5,7 +5,7 @@
   
   <img alt="GitHub" src="https://img.shields.io/badge/License-LGPL_3.0-blue.svg">
   
-  <img src="https://zenodo.org/badge/185932596.svg" alt="DOI"><a href="https://zenodo.org/badge/latestdoi/185932596"></a>
+  <img src="https://zenodo.org/badge/185932596.svg" alt="DOI"></a>
 
 
 # Blockchain and Machine Learning for Fraud Detection: Employing Artificial Intelligence in the Banking Sector
