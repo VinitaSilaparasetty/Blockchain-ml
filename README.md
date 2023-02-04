@@ -27,10 +27,9 @@ In this paper, a system is created which consists of the following components:
 1) Blockchain: To securely store transaction history.
 2) XGBoosted KMeans algorithm: For quick and efficient detection of outliers, which indicate suspicious
 activity.
-3) Apache Ignite: This is an open source platform that provides powerful computing for real-time Machine
-Learning.
 
-#### Keywords: Machine Learning, Data Science, Artificial Intelligence, Kmeans Clustering, Blockchain, Apache.
+
+#### Keywords: Machine Learning, Data Science, Artificial Intelligence, Kmeans Clustering, Blockchain.
 
 ### Dataset 
 
@@ -42,8 +41,4 @@ Here's a data map describing each file's correlation.
   <img width="560" height="315" src="https://github.com/VinitaSilaparasetty/Blockchain-ml/blob/master/lpetrocelli-czech-financial-dataset-real-anonymized-transactions/Datamap.png?raw=true">
 </p> 
 
-#### View Paper: https://independent.academia.edu/VinitaSilaparasetty/Conference-Presentations
-
 <img src="https://github.com/VinitaSilaparasetty/Blockchain-ml/blob/master/V.S.png?raw=true" alt="Paris" class="center">
-
-#### Author Comments: This paper was merely a surface study on Machine Learning and Blockchains as the time alloted to prepare and submit the paper was just one week. Feel free to point out any errors or make suggestions.
