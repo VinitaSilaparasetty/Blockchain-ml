@@ -33,8 +33,6 @@ activity.
 
 ### Dataset 
 
-#### source: http://lisp.vse.cz/pkdd99/berka.html
-
 Here's a data map describing each file's correlation.
 
 <p align="center">
