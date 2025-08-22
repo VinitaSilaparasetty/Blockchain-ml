@@ -7,6 +7,8 @@
   
   <img src="https://zenodo.org/badge/185932596.svg" alt="DOI">
 
+### *Note: This paper was presented at the GCU International Knowledge Transfer Conclave (2018), where it won the Best Paper Award and was included in the conference proceedings (ISBN 978-93-86516-46-6) and has been cited once. It was not accepted in peer-reviewed journals and is not intended as groundbreaking ML research. Instead, it represents an early exploration into the intersection of Blockchain and Machine Learning for fraud detection, during the peak of blockchain adoption in financial services. I keep it public as part of my research journey and recognition milestone.*
+
 
 # Blockchain and Machine Learning for Fraud Detection: Employing Artificial Intelligence in the Banking Sector
 
